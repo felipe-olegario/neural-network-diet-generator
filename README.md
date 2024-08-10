@@ -57,10 +57,10 @@ O projeto é construído utilizando as seguintes bibliotecas:
    ```
 
 ## Estrutura do Projeto
-├── app.py                  # Código principal da aplicação
-├── dataset.csv             # Base de dados de exemplo (deve ser fornecida pelo usuário)
-├── Dockerfile              # Dockerfile para criar a imagem do contêiner
-├── docker-compose.yml      # Arquivo Docker Compose para orquestrar contêineres
-├── requirements.txt        # Arquivo com as dependências Python
-└── README.md               # Este documento
+- app.py                  # Código principal da aplicação
+- dataset.csv             # Base de dados de exemplo (deve ser fornecida pelo usuário)
+- Dockerfile              # Dockerfile para criar a imagem do contêiner
+- docker-compose.yml      # Arquivo Docker Compose para orquestrar contêineres
+- requirements.txt        # Arquivo com as dependências Python
+- README.md               # Este documento
 
